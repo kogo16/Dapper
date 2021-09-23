@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "bMeEBsbETz43D1oi8aCVr0d9OzqHsHoS//GY/BgQ4T/BT5tnOHuNaicIjY6CtyccQGGixMIQSBSk1AcxwgSCHg==",
+  "success": true,
+  "projectFilePath": "/Users/sabakoguashvili/RiderProjects/Dapper/Dapper/Dapper.csproj",
+  "expectedPackageFiles": [
+    "/Users/sabakoguashvili/.nuget/packages/microsoft.extensions.configuration/6.0.0-rc.1.21451.13/microsoft.extensions.configuration.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "/Users/sabakoguashvili/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0-rc.1.21451.13/microsoft.extensions.configuration.abstractions.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "/Users/sabakoguashvili/.nuget/packages/microsoft.extensions.configuration.fileextensions/6.0.0-rc.1.21451.13/microsoft.extensions.configuration.fileextensions.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "/Users/sabakoguashvili/.nuget/packages/microsoft.extensions.configuration.json/6.0.0-rc.1.21451.13/microsoft.extensions.configuration.json.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "/Users/sabakoguashvili/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0-rc.1.21451.13/microsoft.extensions.fileproviders.abstractions.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "/Users/sabakoguashvili/.nuget/packages/microsoft.extensions.fileproviders.physical/6.0.0-rc.1.21451.13/microsoft.extensions.fileproviders.physical.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "/Users/sabakoguashvili/.nuget/packages/microsoft.extensions.filesystemglobbing/6.0.0-rc.1.21451.13/microsoft.extensions.filesystemglobbing.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "/Users/sabakoguashvili/.nuget/packages/microsoft.extensions.primitives/6.0.0-rc.1.21451.13/microsoft.extensions.primitives.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "/Users/sabakoguashvili/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0-rc.1.21451.13/system.runtime.compilerservices.unsafe.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "/Users/sabakoguashvili/.nuget/packages/system.text.encodings.web/6.0.0-rc.1.21451.13/system.text.encodings.web.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "/Users/sabakoguashvili/.nuget/packages/system.text.json/6.0.0-rc.1.21451.13/system.text.json.6.0.0-rc.1.21451.13.nupkg.sha512"
+  ],
+  "logs": []
+}
